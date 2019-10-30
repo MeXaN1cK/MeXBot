@@ -1,0 +1,20 @@
+# Project files
+.gradle/
+.idea/
+*.iml
+*.json
+
+# Builds
+build/
+out/
+/*.jar
+
+# Configuration files
+*.properties
+
+# Additional resources
+*.db
+*.db-journal
+books/
+logs/
+backups/
